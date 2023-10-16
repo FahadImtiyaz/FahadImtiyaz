@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FahadImtiyaz
-- 👀 I’m interested in Web#
+- 👀 I’m interested in WebDev
 - 🌱 I’m currently learning Full Stack Web dev
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Fahad.workk12@gmail.com
